@@ -1,0 +1,11 @@
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/obj/Debug/netcoreapp2.1/akka.pipeto.csprojAssemblyReference.cache
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/obj/Debug/netcoreapp2.1/akka.pipeto.csproj.CoreCompileInputs.cache
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/obj/Debug/netcoreapp2.1/akka.pipeto.AssemblyInfoInputs.cache
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/obj/Debug/netcoreapp2.1/akka.pipeto.AssemblyInfo.cs
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/bin/Debug/netcoreapp2.1/akka.pipeto.deps.json
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/bin/Debug/netcoreapp2.1/akka.pipeto.runtimeconfig.json
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/bin/Debug/netcoreapp2.1/akka.pipeto.runtimeconfig.dev.json
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/bin/Debug/netcoreapp2.1/akka.pipeto.dll
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/bin/Debug/netcoreapp2.1/akka.pipeto.pdb
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/obj/Debug/netcoreapp2.1/akka.pipeto.dll
+/Users/ONYX/Documents/__dev/__dev_dot_net/akka/akka.pipeto/akka.pipeto/obj/Debug/netcoreapp2.1/akka.pipeto.pdb
